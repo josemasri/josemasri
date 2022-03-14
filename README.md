@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @josemasri
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Go
